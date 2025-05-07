@@ -1,0 +1,22 @@
+.card{
+    width: 268px;
+    padding: 15px;
+    background-color: rgb(6, 234, 255);
+    text-align: center;
+    border-radius: 30PX;
+}
+
+.card img{
+    width: 100%;
+    border-radius: 30PX;
+}
+
+.card h3{
+    margin: 15px 0;
+}
+
+p{
+    color: grey;
+    font-size: 15px;
+    font-weight: 500;
+}
